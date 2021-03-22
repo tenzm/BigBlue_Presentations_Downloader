@@ -1,4 +1,4 @@
-# BigBlue_Presentations_Downloader
+# Presentations_Merger
 
 Installation:
 1) Install Nodejs
