@@ -7,6 +7,6 @@ Installation:
 
 How to use:
 
-<b>node main.js "<Filename>", "<url@>"</b>
+<b>node main.js "<Filеname>", "<url@>"</b>
 
 <i>Where <url@> is composed by replacing the slide number digit with '@' symbols</i>
